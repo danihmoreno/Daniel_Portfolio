@@ -18,10 +18,7 @@ order by 1,2
 --order by 1,2
 
 
--- 2. 
-
--- We take these out as they are not included in the above queries and want to stay consistent
--- European Union is part of Europe
+-- 2. Total Death Count by Continent or Region
 
 Select location, SUM(cast(new_deaths as int)) as TotalDeathCount
 from PortfolioProject..CovidDeaths
