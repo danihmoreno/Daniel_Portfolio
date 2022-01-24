@@ -32,7 +32,15 @@ group by location
 order by TotalDeathCount desc
 
 
--- 3. Highest Infected Countries by Percent of Population Infected and by Date
+-- 3.a. Highest Infected Countries by Percent of Population Infected
+
+Select Location, Population, MAX(total_cases) as HighestInfectionCount, MAX((total_cases/population))*100 as PercentPopulationInfected
+From PortfolioProject..CovidDeaths
+-- where location like '%brazil%'
+Group by location, population
+order by PercentPopulationInfected desc
+
+-- 3.b. Highest Infected Countries by Percent of Population Infected and by Date
 
 Select Location, Population, date, MAX(total_cases) as HighestInfectionCount, MAX((total_cases/population))*100 as PercentPopulationInfected
 From PortfolioProject..CovidDeaths
