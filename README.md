@@ -11,24 +11,24 @@ Data Analytics Portfolio
 * Imported each file to [Tableau](https://public.tableau.com/app/profile/daniel.moreno3206/viz/COVIDAnalyses/Dashboard1) and created the following data visualizations: 
 * ### 1. Covid Global Numbers
 
-![](/images/Covid%20Global%20Numbers.png)
+![](https://github.com/danihmoreno/Project-1-Covid-Analyses/blob/main/images/Covid%20Global%20Numbers.png)
 
 * ### 2. Covid Deaths by Continent
 
-![](/images/Total%20Death%20Count%20by%20Continent.png)
+![](https://github.com/danihmoreno/Project-1-Covid-Analyses/blob/main/images/Total%20Death%20Count%20by%20Continent.png)
 
 * ### 3. Percent of Population Infected by Covid per Country
 
-![](/images/Percent%20of%20Population%20Infected%20by%20Covid%20per%20Country.png)
+![](https://github.com/danihmoreno/Project-1-Covid-Analyses/blob/main/images/Percent%20of%20Population%20Infected%20by%20Covid%20per%20Country.png)
 
 * ### 4. Percent of Population Infected by Covid
 
-![](/images/Percent%20of%20Population%20Infected%20by%20Covid.png)
+![](https://github.com/danihmoreno/Project-1-Covid-Analyses/blob/main/images/Percent%20of%20Population%20Infected%20by%20Covid.png)
 
 * ### 5. Total Vaccines Applied per Continent
 
-![](/images/Total%20Vaccines%20Applied%20per%20Continent.png)
+![](https://github.com/danihmoreno/Project-1-Covid-Analyses/blob/main/images/Total%20Vaccines%20Applied%20per%20Continent.png)
 
 * ### 6. Total Vaccines Applied in Relation to Population
 
-![](/images/Total%20Covid%20Vaccines%20Applied%20in%20Relation%20to%20Population.png)
+![](https://github.com/danihmoreno/Project-1-Covid-Analyses/blob/main/images/Total%20Covid%20Vaccines%20Applied%20in%20Relation%20to%20Population.png)
