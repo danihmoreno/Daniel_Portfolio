@@ -10,7 +10,7 @@ Data Analytics Portfolio
 * Copied and saved each scripts' resulting tables to different Excel files
 * Imported each file to Tableau and created the following data visualizations: (https://public.tableau.com/app/profile/daniel.moreno3206/viz/COVIDAnalyses/Dashboard1)
 * 1. Covid Global Numbers
-![](https://github.com/danihmoreno/Project-1-Covid-Analyses/blob/main/images/Covid%20Global%20Numbers.png)
+![Covid Global Numbers](https://github.com/danihmoreno/Project-1-Covid-Analyses/blob/main/images/Covid%20Global%20Numbers.png)
 * 2. Covid Deaths by Continent
 ![](https://github.com/danihmoreno/Project-1-Covid-Analyses/blob/main/images/Total%20Death%20Count%20by%20Continent.png)
 * 3. Percent of Population Infected by Covid per Country
