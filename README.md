@@ -9,7 +9,7 @@ Data Analytics Portfolio
 * [Scripted main analyses](https://github.com/danihmoreno/Project-1-Covid-Analyses/blob/main/Project%201:%20Covid%20Analyses%20Scripts.sql)
 * Copied and saved each scripts' resulting tables to different Excel files
 * Imported each file to Tableau and created the following data visualizations: (https://public.tableau.com/app/profile/daniel.moreno3206/viz/COVIDAnalyses/Dashboard1)
-* 1. Covid Global Numbers
+* ### 1. Covid Global Numbers
 
 ![Covid Global Numbers](https://github.com/danihmoreno/Project-1-Covid-Analyses/blob/main/images/Covid%20Global%20Numbers.png)
 
